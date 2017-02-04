@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "4.12.3",
+    "http-status": "0.1.8",
+    "mongoose": "4.0.3",
+    "wagner-core": "0.1.0",
+    "multer": "1.1.0"
+  }
+}
